@@ -13,4 +13,3 @@ gert::git_config_global_set("user.email", email)
 #==============
 
 x <- 1
-
